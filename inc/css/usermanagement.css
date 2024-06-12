@@ -1,0 +1,280 @@
+body {
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-weight: normal;
+	bgcolor: lightgray;
+}
+
+* .{
+	font-family: Barille, Verdana;
+	font-weight: normal;
+	bgcolor: white;
+}
+
+.header {
+	padding: 85px;
+	text-align: center;
+	background: #d70400;
+	color: white;
+}
+
+div.blog {
+	padding: 20px;
+	margin: 20px 20px 20px 20px;
+	border: 2px solid red;
+}
+
+div.comment {
+	padding: 10px;
+	margin: 30px 0px 0px 0px;
+	border: 1px solid gray;
+}
+
+div.author {
+	font-size: 10px;
+	margin-top: 10px;
+	margin-bottom: 2px;
+	text-align: right;
+}
+
+a.modify {
+	font-size: 10px;
+	margin-top: -80px;
+	margin-bottom: 30px;
+	color: red;
+	text-align: right;
+	float: right;
+}
+
+.header h1 {
+	font-size: 40px;
+	margin: 10px;
+}
+
+p, td {
+	font-size: 14px;
+	margin: 10px;
+	padding: 10px;
+	text-align: left;
+}
+
+input {
+	font-size: 14px;
+	color: red;
+}
+
+input:hover {
+	background-color: red;
+	color: white;
+}
+
+.
+* {
+	font-family: verdana, Geneva, Arial, Helvetica, sans-serif;
+}
+
+h1 {
+	font-size: 26px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	padding: 10px;
+}
+
+h2 {
+	font-size: 20px;
+	margin-right: 10px;
+	margin-top: 10px;
+	margin-bottom: 30px;
+	padding: 10px;
+}
+
+.navbar button {
+	float: right;
+	padding: 6px 10px;
+	margin-top: 8px;
+	margin-right: 16px;
+	background: #ddd;
+	font-size: 17px;
+	border: none;
+	cursor: pointer;
+}
+
+table {
+	font-family: verdana, Geneva, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	color: #000000;
+	padding: 2;
+	border-width: 1px;
+	margin: 10 px;
+}
+
+th {
+	color: #000000;
+	background-color: #EEF3FB;
+	padding: 3;
+	text-align: center;
+	border: none;
+	margin: 10 px;
+}
+
+a {
+	color: red;
+	text-decoration: underline;
+}
+
+a:hover {
+	color: #b80301;
+	text-decoration: underline;
+}
+
+.error {
+	font-size: 10px;
+	color: #FF0000;
+}
+
+.navbar {
+	overflow: hidden;
+	background-color: #96000b;
+	position: sticky;
+	position: -webkit-sticky;
+	top: 0;
+}
+
+table {
+	border: hidden;
+	width: 100%;
+	margin: 20 px;
+	padding: 10px;
+}
+
+.navbar a {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 20px;
+	text-decoration: none;
+}
+
+div.search {
+	float: left;
+	display: block;
+	color: white;
+	text-align: center;
+	padding: 14px 20px;
+	text-decoration: none;
+}
+
+div.search:hover {
+	background-color: #f40900;
+	color: black;
+}
+
+.navbar a.right {
+	float: right;
+}
+
+.navbar a:hover {
+	background-color: #f40900;
+	color: black;
+}
+
+.navbar a.home {
+	background-color: #ff3630;
+}
+
+.navbar input[type=text] {
+	padding: -3px;
+	margin: -5px;
+	font-size: 18px;
+	border: none;
+	background-color: white;
+	color: black;
+}
+
+.navbar button {
+	padding: -3px;
+	margin: -18px 0px -18px 8px;
+	color: white;
+	background-color: #f40900;
+	font-size: 30px;
+}
+
+.navbar button:hover {
+	color: black;
+	background-color: #96000b;
+}
+
+* {
+	box-sizing: border-box
+}
+
+.slideshow-container {
+	max-width: 1000px;
+	position: relative;
+	margin: auto;
+}
+
+.mySlides {
+	display: none;
+}
+
+.text {
+	color: #f2f2f2;
+	font-size: 15px;
+	padding: 8px 12px;
+	position: absolute;
+	bottom: 8px;
+	width: 100%;
+	text-align: center;
+}
+
+.numbertext {
+	color: red;
+	font-size: 12px;
+	padding: 8px 12px;
+	position: absolute;
+	top: 0;
+}
+
+.dot {
+	cursor: pointer;
+	height: 15px;
+	width: 15px;
+	margin: 0 2px;
+	background-color: #bbb;
+	border-radius: 50%;
+	display: inline-block;
+	transition: background-color 0.6s ease;
+}
+
+.active, .dot:hover {
+	background-color: #717171;
+}
+
+.fade {
+	-webkit-animation-name: fade;
+	-webkit-animation-duration: 1.5s;
+	animation-name: fade;
+	animation-duration: 1.5s;
+}
+
+@
+-webkit-keyframes fade {
+	from {opacity: .4
+}
+
+to {
+	opacity: 1
+}
+
+}
+@
+keyframes fade {
+	from {opacity: .4
+}
+
+to {
+	opacity: 1
+}
+}
