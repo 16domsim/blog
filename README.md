@@ -5,12 +5,14 @@ A PHP-based car blog I developed for my school project in 2019 to become familia
 ## Use-Case-Diagrams
 
 ![Actions use case](https://github.com/16domsim/blog/assets/55878762/fc37922c-7576-40e0-b859-e0c16c71ab1a)
-<br>
-<br>
+
+<br><br><br><br>
+
 ![Register use case](https://github.com/16domsim/blog/assets/55878762/6cbcc687-30df-44ae-89ec-863806a397d7)
 
-## Visualisation
+<br><br><br><br>
 
+## Visualisation
 
 ![Screenshot 2024-06-12 at 09 38 54](https://github.com/16domsim/blog/assets/55878762/4f9a7f1a-46ab-472a-95d6-85a05ba4c31e)
 Login page
